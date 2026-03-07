@@ -6,7 +6,7 @@ Buatlah sebuah fungsi bernama fizzBuzz yang menerima input larik (array) dan men
 
 kode sumber
 
-Tersedia di [tm.js] https://github.com/RafaelSeptava/KPL_RafaelPutraSeptava_103122400015_SE0801/blob/main/02_Pemrograman_JavaScript/TM/tm.js
+Tersedia di [tm.js](https://github.com/RafaelSeptava/KPL_RafaelPutraSeptava_103122400015_SE0801/blob/main/02_Pemrograman_JavaScript/TM/tm.js)
 
 Output
 
