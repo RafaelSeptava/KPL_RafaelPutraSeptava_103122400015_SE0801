@@ -1,4 +1,6 @@
 //Exercise 1
+// Program untuk menyimpan dan memanipulasi Array minuman kesukaan 
+// dengan mengganti elemen array dan menambahkan elemen baru di depan array
 console.log("|Praktik 1|\n");
 console.log("Minuman Kesukaan: ");
 const MINUMAN_KESUKAAN = ["Air Es", "Es Kopi", "Es Teh", "Es Jeruk"];
@@ -14,6 +16,7 @@ MINUMAN_KESUKAAN.unshift("Fanta");
 console.log(MINUMAN_KESUKAAN);
 
 //Exercise 2 
+// Program menghitung jumlah deret dari 1 sampai n menggunakan function dan perulangan
 console.log("\n|Praktik 2|\n");
 function penjumlahan(n){
     let hasil = 0;
