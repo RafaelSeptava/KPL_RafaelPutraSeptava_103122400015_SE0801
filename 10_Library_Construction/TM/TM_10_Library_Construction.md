@@ -12,8 +12,8 @@ Pada tugas ini buatlah sebuah proyek baru bernama mtk-gampang. Struktur proyekny
 
 Setiap berkas lib hanya memiliki satu fungsi saja.
 
-1. pangkat.js berisi fungsi pangkat(x, y) yang mengembalikan nilai akhir dari x pangkat y.
-2. bulat.js berisi fungsi bulat(x) yang mengubah bentuk bilangan non-bulat menjadi bulat (mis. -4.25 menjadi -4) .
+1. pangkat.js berisi fungsi pangkat(x, y) yang mengembalikan nilai akhir dari x pangkat y.  
+2. bulat.js berisi fungsi bulat(x) yang mengubah bentuk bilangan non-bulat menjadi bulat (mis. -4.25 menjadi -4).  
 3. kuadrat.js berisi fungsi kuadrat(x) yang mengembalikan nilai akar kuadrat 2 dari x.
 
 Satu batasannya adalah fungsi-fungsi ini harus diakses dari index.js (sebagai nilai dari properti main), bukan dari lib masing-masing.
@@ -31,7 +31,7 @@ folder lib: [bulat.js](https://github.com/RafaelSeptava/KPL_RafaelPutraSeptava_1
 
 ## Deskripsi
 
-Library bernama "mtk-gampang" yang menyediakan 3 fungsi yaitu:
+Library bernama "mtk-gampang" yang menyediakan 3 fungsi yaitu:  
 bulat.js untuk Mengubah bentuk bilangan non-bulat menjadi bulat.  
 kuadrat.js untuk Mengembalikan nilai akar kuadrat 2 dari x.  
-pangkat.js untuk Mengembalikan nilai akhir dari x pangkat y.  
+pangkat.js untuk Mengembalikan nilai akhir dari x pangkat y.
